@@ -1,0 +1,125 @@
+00:23:00 AM
+walutomat.pl             EUR: 4,2922 | USD: 3,7751 | CHF: 3,7838
+internetowykantor.pl     EUR: 4,2846 | USD: 3,7683 | CHF: 3,7788
+kantoria.pl              EUR: 4.2859 | USD: 3.7698 | CHF: 3.7796
+
+00:38:01 AM
+walutomat.pl             EUR: 4,2922 | USD: 3,7751 | CHF: 3,7838
+internetowykantor.pl     EUR: 4,2846 | USD: 3,7683 | CHF: 3,7774
+kantoria.pl              EUR: 4.2855 | USD: 3.7699 | CHF: 3.7791
+
+00:53:01 AM
+walutomat.pl             EUR: 4,2922 | USD: 3,7751 | CHF: 3,7838
+internetowykantor.pl     EUR: 4,2844 | USD: 3,7685 | CHF: 3,7776
+kantoria.pl              EUR: 4.2860 | USD: 3.7700 | CHF: 3.7795
+
+01:08:00 AM
+walutomat.pl             EUR: 4,2922 | USD: 3,7751 | CHF: 3,7838
+internetowykantor.pl     EUR: 4,2850 | USD: 3,7684 | CHF: 3,7778
+kantoria.pl              EUR: 4.2862 | USD: 3.7706 | CHF: 3.7798
+
+01:23:01 AM
+walutomat.pl             EUR: 4,2922 | USD: 3,7751 | CHF: 3,7838
+internetowykantor.pl     EUR: 4,2847 | USD: 3,7688 | CHF: 3,7785
+kantoria.pl              EUR: 4.2861 | USD: 3.7693 | CHF: 3.7796
+
+01:38:00 AM
+walutomat.pl             EUR: 4,2922 | USD: 3,7751 | CHF: 3,7838
+internetowykantor.pl     EUR: 4,2847 | USD: 3,7684 | CHF: 3,7782
+kantoria.pl              EUR: 4.2862 | USD: 3.7696 | CHF: 3.7800
+
+01:53:00 AM
+walutomat.pl             EUR: 4,2922 | USD: 3,7751 | CHF: 3,7838
+internetowykantor.pl     EUR: 4,2851 | USD: 3,7691 | CHF: 3,7779
+kantoria.pl              EUR: 4.2863 | USD: 3.7708 | CHF: 3.7798
+
+02:08:00 AM
+walutomat.pl             EUR: 4,2922 | USD: 3,7751 | CHF: 3,7838
+internetowykantor.pl     EUR: 4,2851 | USD: 3,7694 | CHF: 3,7791
+kantoria.pl              EUR: 4.2863 | USD: 3.7710 | CHF: 3.7802
+
+02:23:00 AM
+walutomat.pl             EUR: 4,2922 | USD: 3,7751 | CHF: 3,7838
+internetowykantor.pl     EUR: 4,2843 | USD: 3,7679 | CHF: 3,7772
+kantoria.pl              EUR: 4.2862 | USD: 3.7701 | CHF: 3.7800
+
+02:38:00 AM
+walutomat.pl             EUR: 4,2922 | USD: 3,7751 | CHF: 3,7838
+internetowykantor.pl     EUR: 4,2850 | USD: 3,7685 | CHF: 3,7788
+kantoria.pl              EUR: 4.2866 | USD: 3.7703 | CHF: 3.7796
+
+02:53:00 AM
+walutomat.pl             EUR: 4,2922 | USD: 3,7751 | CHF: 3,7838
+internetowykantor.pl     EUR: 4,2850 | USD: 3,7686 | CHF: 3,7774
+kantoria.pl              EUR: 4.2865 | USD: 3.7696 | CHF: 3.7791
+
+03:08:00 AM
+walutomat.pl             EUR: 4,2922 | USD: 3,7751 | CHF: 3,7838
+internetowykantor.pl     EUR: 4,2850 | USD: 3,7689 | CHF: 3,7776
+kantoria.pl              EUR: 4.2867 | USD: 3.7702 | CHF: 3.7795
+
+03:23:00 AM
+walutomat.pl             EUR: 4,2922 | USD: 3,7751 | CHF: 3,7838
+internetowykantor.pl     EUR: 4,2851 | USD: 3,7690 | CHF: 3,7781
+kantoria.pl              EUR: 4.2865 | USD: 3.7701 | CHF: 3.7798
+
+03:38:00 AM
+walutomat.pl             EUR: 4,2922 | USD: 3,7751 | CHF: 3,7838
+internetowykantor.pl     EUR: 4,2848 | USD: 3,7690 | CHF: 3,7789
+kantoria.pl              EUR: 4.2859 | USD: 3.7701 | CHF: 3.7799
+
+03:53:00 AM
+walutomat.pl             EUR: 4,2922 | USD: 3,7751 | CHF: 3,7838
+internetowykantor.pl     EUR: 4,2845 | USD: 3,7680 | CHF: 3,7784
+kantoria.pl              EUR: 4.2860 | USD: 3.7703 | CHF: 3.7800
+
+04:08:00 AM
+walutomat.pl             EUR: 4,2922 | USD: 3,7751 | CHF: 3,7838
+internetowykantor.pl     EUR: 4,2845 | USD: 3,7688 | CHF: 3,7783
+kantoria.pl              EUR: 4.2861 | USD: 3.7702 | CHF: 3.7796
+
+04:23:00 AM
+walutomat.pl             EUR: 4,2922 | USD: 3,7751 | CHF: 3,7838
+internetowykantor.pl     EUR: 4,2846 | USD: 3,7682 | CHF: 3,7778
+kantoria.pl              EUR: 4.2860 | USD: 3.7696 | CHF: 3.7790
+
+04:38:01 AM
+walutomat.pl             EUR: 4,2922 | USD: 3,7751 | CHF: 3,7838
+internetowykantor.pl     EUR: 4,2845 | USD: 3,7696 | CHF: 3,7780
+kantoria.pl              EUR: 4.2862 | USD: 3.7709 | CHF: 3.7786
+
+04:53:00 AM
+walutomat.pl             EUR: 4,2922 | USD: 3,7751 | CHF: 3,7838
+internetowykantor.pl     EUR: 4,2844 | USD: 3,7704 | CHF: 3,7777
+kantoria.pl              EUR: 4.2859 | USD: 3.7717 | CHF: 3.7796
+
+05:08:00 AM
+walutomat.pl             EUR: 4,2922 | USD: 3,7751 | CHF: 3,7838
+internetowykantor.pl     EUR: 4,2844 | USD: 3,7716 | CHF: 3,7785
+kantoria.pl              EUR: 4.2859 | USD: 3.7728 | CHF: 3.7799
+
+05:23:01 AM
+walutomat.pl             EUR: 4,2922 | USD: 3,7751 | CHF: 3,7838
+internetowykantor.pl     EUR: 4,2842 | USD: 3,7712 | CHF: 3,7800
+kantoria.pl              EUR: 4.2858 | USD: 3.7734 | CHF: 3.7802
+
+05:38:00 AM
+walutomat.pl             EUR: 4,2922 | USD: 3,7751 | CHF: 3,7838
+internetowykantor.pl     EUR: 4,2844 | USD: 3,7718 | CHF: 3,7800
+kantoria.pl              EUR: 4.2858 | USD: 3.7730 | CHF: 3.7809
+
+05:53:00 AM
+walutomat.pl             EUR: 4,2922 | USD: 3,7751 | CHF: 3,7838
+internetowykantor.pl     EUR: 4,2844 | USD: 3,7721 | CHF: 3,7795
+kantoria.pl              EUR: 4.2860 | USD: 3.7741 | CHF: 3.7811
+
+06:08:01 AM
+walutomat.pl             EUR: 4,2922 | USD: 3,7751 | CHF: 3,7838
+internetowykantor.pl     EUR: 4,2844 | USD: 3,7718 | CHF: 3,7791
+kantoria.pl              EUR: 4.2858 | USD: 3.7733 | CHF: 3.7805
+
+06:23:01 AM
+walutomat.pl             EUR: 4,2922 | USD: 3,7751 | CHF: 3,7838
+internetowykantor.pl     EUR: 4,2844 | USD: 3,7725 | CHF: 3,7797
+kantoria.pl              EUR: 4.2860 | USD: 3.7738 | CHF: 3.7809
+
